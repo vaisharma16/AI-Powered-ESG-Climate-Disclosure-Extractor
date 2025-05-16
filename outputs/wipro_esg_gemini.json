@@ -1,0 +1,47 @@
+{
+  "What is the company's Scope 1 GHG emissions?": {
+    "answer": "The provided text does not specify the company's Scope 1 GHG emissions separately from Scope 2.  It states that Scope 1 and 2 emissions combined represent 13% of total emissions (56 Mt CO2e) in 2023, and that a 74% reduction in Scope 1 & 2 GHG emissions was achieved in 2023 versus the 2015 baseline.  Further breakdown is needed to isolate Scope 1 emissions.",
+    "confidence_score": 0.8,
+    "page_reference": "Page 12, Page 15"
+  },
+  "What is the company's Scope 2 GHG emissions?": {
+    "answer": "The provided text does not separately specify Scope 2 emissions.  It mentions a 74% reduction in Scope 1 & 2 GHG emissions in 2023 against a 2015 baseline, and a target of 100% absolute reduction by 2030 (and 70% by 2025) for Scope 1 & 2 combined, but does not break down these figures into individual Scope 1 and Scope 2 components.",
+    "confidence_score": 0.8,
+    "page_reference": "page 11, page 15, page 16"
+  },
+  "What is the company's Scope 3 GHG emissions?": {
+    "answer": "Unilever's total Scope 3 GHG emissions in 2023 were 56 Mt CO2e.  However,  the provided text indicates that the near-term Scope 3 reduction targets exclude categories like  'Purchased goods and services (associated with ingredients, packaging)', 'upstream transport', 'downstream leased assets (ice cream cabinets)', 'end of life treatment of sold products', totaling 14% of emissions. Specific details on other excluded categories are available in Appendix 1.  The company has set a near-term target to reduce absolute Scope 3 energy and industrial GHG emissions (excluding the noted exclusions) by 39% (FLAG and energy/industry combined).",
+    "confidence_score": 0.8,
+    "page_reference": "page 11, page 12, page 13, page 58"
+  },
+  "What net-zero or climate targets has the company disclosed?": {
+    "answer": "Unilever aims for Net Zero emissions by 2039.  This target excludes indirect consumer use-phase emissions (optional under the GHG Protocol and SBTi).  Their current near-term targets cover Scope 1, 2, and 3 emissions (excluding the optional indirect emissions), aiming for a 39% absolute reduction in total targeted Scope 3 emissions. This 39% reduction is split between emissions from forest, land, and agriculture (FLAG) and those from energy and industry.  In 2021, their baseline GHG emissions were 56 million tonnes CO2e, reduced to 53 million tonnes CO2e by 2023.  These near-term targets are pending SBTi validation.",
+    "confidence_score": 0.95,
+    "page_reference": "page 6, page 8, page 9, page 13"
+  },
+  "What does the company report about climate-related risks and opportunities?": {
+    "answer": "The company reports having a Climate Transition Action Plan (CTAP) with clear plans and targets for a net-zero transition.  This plan, published online, includes specific actions embedded within the financial growth plans of its five business groups to reduce GHG emissions.  Annual progress against these plans and targets is disclosed.  The company also conducts TCFD scenario analysis to monitor the potential financial impact of long-term climate scenarios, and invests \u20ac1bn from 2020-2030 in climate and nature projects.  Specific actions include enrolling suppliers in programs to reduce land use change and GHG emissions, and improving processing of forest-risk commodities, focusing on reducing methane emissions from palm oil mill effluent (POME). The company acknowledges challenges in quantifying all climate-related costs in long-term financial plans due to evolving solutions.",
+    "confidence_score": 0.95,
+    "page_reference": "page 2, page 69, page 54, page 26"
+  },
+  "Does the company use any climate scenario analysis (e.g., 1.5\u00b0C, 2\u00b0C)?": {
+    "answer": "Yes, the company uses a Task Force on Climate-related Financial Disclosures (TCFD) scenario analysis process.  Their analysis considers the challenges of a climate transition consistent with limiting global warming to 1.5\u00b0C above pre-industrial levels,  to avoid the worst effects of climate change.",
+    "confidence_score": 0.95,
+    "page_reference": "page 2, page 54"
+  },
+  "How does the company describe its board-level ESG or climate governance?": {
+    "answer": "Unilever's Board has overall accountability for climate change risks and opportunities, delegating specific responsibilities to subcommittees.  The Corporate Responsibility Committee (CRC) oversees corporate and societal responsibilities and reviews the Climate Transition Action Plan (CTAP). The Audit Committee oversees non-financial disclosures, including CTAP progress reports. The Nominating and Corporate Governance Committee ensures the Board has sufficient sustainability skills and experience, recommending CRC membership.  The Compensation Committee links climate performance to executive remuneration, proposing a 15% weighting for a Sustainability Progress Index (including climate targets) in the 2024 Remuneration Policy.",
+    "confidence_score": 0.95,
+    "page_reference": "page 38, page 42, page 50"
+  },
+  "Does the company disclose its renewable energy usage or transition strategy?": {
+    "answer": "Yes, the company discloses its renewable energy transition strategy, including plans to increase renewable power usage through on-site generation, off-site PPAs, and transitioning to sustainably sourced biofuels (e.g., biomethane replacing natural gas in Indonesia).  They also mention participation in EV100 to encourage 100% electric vehicles and cite dependencies on cost-effective thermal energy solutions and availability of sustainable biofuels.",
+    "confidence_score": 0.95,
+    "page_reference": "page 16, page 19, page 61, page 69"
+  },
+  "Does the company disclose use of internal carbon pricing?": {
+    "answer": "Yes, the company uses an internal carbon price of \u20ac70/t CO2e for capital expenditure decisions, reviewed annually.  This aligns with the Carbon Pricing Leadership Coalition's recommendations for achieving the Paris Agreement's 1.5\u00b0C goal, which suggested a carbon price of $40-80 per tonne by 2020, rising to $50-$100 by 2030.",
+    "confidence_score": 0.95,
+    "page_reference": "page 43, page 56"
+  }
+}

@@ -1,0 +1,2005 @@
+
+--- Page 1 ---
+Climate 
+Transition 
+Action Plan
+Updated 2024
+
+--- Page 2 ---
+Unilever Climate Transition Action Plan
+Foreword	
+3
+Introduction	
+5
+Our plan	
+6
+Our operations (Scope 1 & 2)	
+14
+Our value chain (Scope 3)	
+17
+Our wider influence on society	
+33
+Governance and delivery	
+37
+Appendices	
+45
+Contents
+2
+
+--- Page 3 ---
+Unilever Climate Transition Action Plan
+Dear shareholders,
+Unilever's response to climate change has long been embedded into its way of doing business. 
+We have been reporting our operational environmental footprint since the late 1990s and set our 
+first value chain emissions reduction goal back in 2010. In 2015, Unilever played a prominent role 
+in advocating for the Paris Agreement on climate change – a global treaty designed to catalyse 
+action from governments and other actors – and announced new science-based targets for our 
+operations and value chain. 
+Moving forward, we want to be even clearer about the importance of sustainability to our business 
+strategy. In our Q3 2023 update to investors, we identified climate, nature, plastics, and livelihoods 
+as the four most important sustainability priorities to support business growth. 
+As a company dependent on agricultural and energy-intensive chemical ingredients, we believe 
+that transitioning to become a lower-emission business has many benefits. It increases resilience, 
+improves efficiency, and future-proofs our value chain against transition risks such as carbon prices, 
+while sparking innovation and helping to attract the best talent. In proactively managing our 
+transition to net zero, we also ensure we respond to the opportunities and risks highlighted through 
+our Task Force on Climate-related Financial Disclosures (TCFD) scenario analysis process. 
+The challenges of the climate transition are clear, especially if the world is to reduce greenhouse 
+gas (GHG) emissions at a pace consistent with limiting global warming to 1.5°C above pre-
+industrial levels, avoiding the worst effects of climate change. We are determined to play our 
+part and are now driving climate action with greater focus and clarity than ever before. The 
+development of this updated Climate Transition Action Plan (CTAP) reflects this shift, as better 
+data, and a more granular focus on future GHG reduction opportunities, have enabled us to 
+update our targets and embed specific actions to drive their delivery within the financial growth 
+plans of our five Business Groups.
+Our first CTAP was put forward for an advisory vote at the company's 2021 Annual General Meeting 
+(AGM), which passed with the support of over 99% of the votes cast. We have published annual 
+CTAP progress reports within our Annual Report and Accounts (ARA) for the last three years and 
+will continue to do so. Similarly, shareholders will have the opportunity to voice their support 
+for the 2024 update. As was the case in 2021, this advisory vote in no way removes the Board's 
+responsibility for this strategy – it simply provides us with the opportunity for a more informed 
+dialogue with our shareholders. In the process of updating the CTAP, we consulted our largest 
+shareholders on the topic. We were pleased that the key elements of the plan – the new higher 
+ambition near-term Scope 3 GHG reduction targets, the continued focus on absolute emissions 
+reductions rather than carbon offsetting, and the shift to focus on the specific Scope 3 emissions 
+which we believe we can influence – were widely welcomed.
+In short, we believe this CTAP is the right one for our business and supports our efforts to sharpen 
+our focus and performance. We invite you to indicate your support for it at the AGM.
+Yours sincerely, 
+Hein Schumacher
+Chief Executive Officer
+Ian Meakins
+Chair and Non-Executive Director
+3
+Foreword
+
+--- Page 4 ---
+Unilever Climate Transition Action Plan
+Our 
+advocacy
+Scaling up our Supplier Climate Programme
+Reformulating products to use lower-GHG ingredients
+Sustaining and scaling our approach to forest-risk commodities
+Scaling up regenerative agriculture and lower carbon dairy
+Reducing the GHG intensity of our key chemical ingredients
+Redesigning our packaging for recycling
+Reducing GHG emissions from our operations
+Improving our logistics network
+Investing in more efficient ice cream cabinets powered by renewable energy
+Developing alternative aerosol propellants for the US market
+Raise the ambition 
+of national climate 
+strategies and plans in 
+key markets to align with 
+a 1.5°C pathway
+Ensure carbon is priced 
+at levels necessary for 
+the delivery of the Paris 
+Agreement
+Scale up renewable 
+energy capacity and the 
+rapid phase-out of fossil 
+fuels, including fossil fuel 
+subsidies
+Support forest protection 
+and nature restoration
+Encourage the evolution 
+of the GHG Protocol 
+Standards to incentivise 
+emissions reduction 
+actions in value chains
+Our action
+areas
+Our targets
+absolute reduction in Scope 3 
+energy and industrial GHG 
+emissions* (vs 2021)
+42%
+absolute reduction in Scope 1 and 2 
+GHG emissions (vs 2015)
+100%
+30.3%
+absolute reduction in Scope 3 
+forest, land and agriculture 
+GHG emissions* (vs 2021)
+* Our 2030 targets cover purchased goods and services (associated with ingredients, packaging), upstream transport and distribution, energy and fuel-related activities, 
+use of sold products (associated with hydrofluorocarbon (HFC) propellants), end of life treatment of sold products, and downstream leased assets (associated with ice cream retail cabinets). See Appendix 1 for further detail.
+Our 2030 plan
+4
+Foreword
+
+--- Page 5 ---
+Unilever Climate Transition Action Plan
+Introduction
+While we have succeeded in reducing emissions in our operations by 74% in absolute terms 
+(vs 2015) and reducing the emissions intensity of our products across our value chain by 21% 
+(vs 2010), achieving significant absolute reductions in our Scope 3 emissions has proven 
+more challenging. This has prompted us to look again at where and how we believe we can 
+seek absolute emissions reductions in our value chain, resulting in this updated CTAP which 
+sets out new, near-term Scope 3 GHG reduction targets using the Science Based Targets 
+initiative (SBTi) criteria and recommendations for near-term targets,1 and time-bound 
+emissions reduction actions that are integrated into our five Business Groups' financial 
+growth plans. These targets have been submitted to the SBTi for validation. 
+Welcome to Unilever's updated CTAP. Since the first plan was approved by 
+shareholders at our AGM in 2021, we have reduced GHG emissions in our operations 
+ahead of expectations through long-established programmes in renewable energy 
+and energy efficiency. We have also continued to advance the work in our value 
+chain towards eliminating deforestation, improving the design of our products, 
+and advocating for changes in the policy frameworks that will govern the global 
+transition to net zero. 
+The development of these plans has been informed by significant improvements in the 
+measurement of our GHG emissions, allowing us to build more granular action plans.
+
+We have also recognised the need for more targeted external engagement to drive 
+systemic change. Detailed advocacy priorities now target specific barriers to the delivery 
+of our CTAP and provide increased clarity on where we must work with governments, 
+regulators, or industry to shift the systems of which we are a part.
+This updated CTAP will drive progress towards our targets, but we know we have more to 
+do. Our commitment to transparent and regular reporting, Board oversight, climate-linked 
+executive remuneration, and a focus on emissions reductions rather than offsetting, should 
+help us to progress at pace. In addition to the specific mitigating actions set out in this CTAP, 
+we recognise innovations will be needed if we are to meet both these near-term targets 
+and deliver our Net Zero by 2039 ambition. We believe that by being open and transparent 
+about our challenges and dependencies, both for the plan as a whole and for the specific 
+action areas identified within the plan, we can help accelerate the changes needed to get 
+our business and the world on track for net zero.
+This document sets out our plans and targets to transition towards net zero. Annual 
+progress reporting and our TCFD statement are published separately, please see 
+Appendix 4 for detail.
+1 SBTi Criteria and Recommendations for Near-Term Targets , Version 5.1, April 2023
+5
+Introduction
+
+--- Page 6 ---
+Unilever Climate Transition Action Plan
+Our
+plan
+6
+Our plan
+
+--- Page 7 ---
+Unilever Climate Transition Action Plan
+Our ambition
+Preventing climate change by reducing emissions
+The ultimate ambition of this updated CTAP is to drive emissions reductions consistent with 
+the 1.5°C temperature goal of the Paris Agreement, and to reach net zero emissions across 
+our value chain by 2039. The focus of our efforts between now and the end of this decade 
+is to deliver absolute GHG reductions, even as we grow our business. While we will seek out 
+opportunities to reduce emissions and encourage carbon removals within our value chain 
+(e.g. through regenerative agricultural practices), our plan does not include the purchase of 
+carbon credits to meet our near-term GHG reduction targets. 
+Our CTAP covers the GHG emissions from our operations (Scope 1 & 2) as well as key GHG 
+emissions categories in our wider value chain (Scope 3) including raw materials and 
+ingredients, packaging materials, logistics, ice cream cabinets, aerosol propellants and our 
+products' end of life.
+This plan steps up our actions to drive transformations in our agricultural supply chains. 
+We will do this through a focus on regenerative agricultural practices and 'landscape-level' 
+interventions in tropical commodity sourcing locations. We also set out the challenges and 
+actions in our chemical supply chains. New chemical feedstocks and an energy transition in 
+the sector will be critical to our success.
+We remain clear that Unilever cannot achieve its targets alone. Around 98% of our value 
+chain emissions occur up or downstream of our operations where we seek to influence, 
+but cannot control, the pace of change. For this reason, we also include our actions to 
+influence wider systemic change, working with peers, regulators, policymakers, consumers, 
+customers, and other stakeholders to support an accelerated transition. 
+Adapting to climate change and building resilience 
+The CTAP sets out our climate mitigation plan – but many of these actions also facilitate 
+climate adaptation and improve resilience, both of which are growing in importance as 
+part of our overall approach. Ending deforestation and promoting regenerative agriculture 
+can help communities adapt to climate change and increase the resilience of our supply 
+chains through higher-quality soils, which are better able to cope with fluctuating weather 
+patterns and climatic extremes. Some of our actions outside this plan address other 
+climate adaptation and resilience risks, such as our efforts to establish water stewardship 
+programmes at many of our manufacturing sites. More details about these efforts are 
+provided in the Nature section of our Annual Report and Accounts (ARA) and on 
+our website. 
+across our value chain
+7
+Our plan
+
+--- Page 8 ---
+Unilever Climate Transition Action Plan
+Supporting a Just Transition
+
+
+
+
+
+
+
+Since the publication of our CTAP in 2021, we have participated in two industry working 
+groups on the themes of Climate Justice and Just Transition. Based on these, and on our 
+internal assessment, we have concluded that our priority should be the just transition 
+issues that arise in our agricultural value chains. A big part of our agricultural work involves 
+engaging and supporting the farmers and smallholders who supply our ingredients, 
+and who are vital to conserving the natural environments in which they are grown. 
+Deforestation, nature, and biodiversity loss is often closely linked to people and human 
+rights impacts. In this regard, we recognise smallholders, Indigenous peoples, and local 
+communities as among the most important stewards of the land. 
+The global transition to net zero is as much a social transition as an environmental 
+one. Unilever recognises the importance of a just and equitable transition, which 
+puts people and communities at the centre of a sustainable future.
+8
+Our plan
+
+--- Page 9 ---
+Unilever Climate Transition Action Plan
+Under the GHG Protocol, indirect consumer use-phase emissions are an optional part of a 
+company's Scope 3 emissions. While the Science Based Targets initiative (SBTi) encourages 
+companies to consider them, they are also clear that they are not required to be included in 
+a company's Scope 3 emissions and that their inclusion is above and beyond a company's 
+Scope 3 targets. 
+Our GHG emissions in scope of our Net Zero by 2039 ambition do not include these optional 
+indirect emissions sources, and our targeted reductions are therefore set and reported 
+against a baseline of the remaining 56 million tonnes CO2e of GHG emissions in 2021.
+Since 2021, these GHG emissions have reduced to 53 million tonnes CO2e as reported in our 
+2023 Annual Report and Accounts.
+Our GHG baseline
+Measuring GHG emissions is a significant challenge and relies on many estimates 
+and on information from third parties. In 2023, we implemented improvements in 
+our GHG emissions measurement using more complete and accurate data and a new 
+measurement system for our largest Scope 3 emissions categories.
+
+Our revised measurement applies the latest guidance on the use of emissions factors 
+(IPCC AR6) and the recently published draft GHG Protocol Land Sector guidance. 
+We have restated our 2021 and 2022 GHG emissions measurement to reflect these 
+changes and the revised 2021 emissions are the baseline of our Net Zero by 
+2039 ambition.
+Our total revised 2021 GHG emissions are 121 million tonnes of carbon dioxide equivalent 
+(CO2e) and include 65 million tonnes of GHG emissions related to indirect consumer use. 
+For Unilever's products, these emissions typically arise from the heating of hot water to use 
+alongside our shampoos and shower gels. 
+9
+Our plan
+
+--- Page 10 ---
+Unilever Climate Transition Action Plan
+** Others includes capital goods, fuel and energy-related activities, waste generated in operations, 
+business travel, employee commuting, downstream transport and distribution, and franchises.
+* In our 2021 baseline, approximately 44% of the GHG emissions from raw materials 
+and ingredients were associated with forest, land and agriculture (FLAG)
+GHG emissions in scope 
+of our Net Zero by 2039 
+ambition (% in 2021)
+53% 
+Purchased goods 
+and services
+Raw materials 
+and ingredients*
+4% 
+Others**
+3% 
+Upstream transport 
+and distribution
+Logistics
+2% 
+Use of sold products 
+Direct consumer use
+11% 
+Purchased goods 
+and services
+Packaging materials
+6% 
+End of life treatment 
+of sold products
+Product end of life
+6% 
+Downstream leased assets
+Ice cream cabinets
+2% 
+Scope 1 and 2 
+GHG emissions
+Our operations
+13% 
+Purchased goods and services
+Indirect procurement
+56Mt
+CO2e total
+emissions
+Our GHG baseline emissions
+10
+Our plan
+
+--- Page 11 ---
+Unilever Climate Transition Action Plan
+Our near-term GHG reduction targets
+Our operations (Scope 1 & 2)
+	• Reduce in absolute terms our operational emissions (Scope 1 & 2) by 100% by 2030, 
+against a 2015 baseline (SBTi validated as 1.5°C-aligned).
+	• Reduce in absolute terms our operational emissions (Scope 1 & 2) by 70% by 2025, 
+against a 2015 baseline. 
+Our value chain (Scope 3)
+	• Reduce absolute Scope 3 energy and industrial GHG emissions from purchased 
+goods and services (associated with ingredients, packaging), upstream transport and 
+distribution, energy and fuel-related activities, direct emissions from use of sold products 
+(associated with HFC propellants), end of life treatment of sold products, and downstream 
+leased assets (associated with ice cream retail cabinets) by 42% by 2030, from a 2021 
+baseline (submitted to SBTi for validation as 1.5°C-aligned in November 2023).
+	• Reduce absolute Scope 3 forest, land and agriculture (FLAG) GHG emissions from 
+purchased goods and services (associated with ingredients) by 30.3% by 2030, from a 
+2021 baseline2 (submitted to SBTi for validation as 1.5°C-aligned in November 2023).
+We have moved from intensity GHG reduction targets to absolute GHG reduction targets.3 
+At the same time, we have chosen to increase the pace of these targets to align with the 
+goal of limiting global average temperature rise to 1.5°C.
+These targets have been split to separate GHG emissions between those resulting from 
+forest, land and agriculture (FLAG) and those resulting from energy and industry.
+While these two targets are separate, together they represent a 39% absolute reduction in 
+total targeted Scope 3 emissions. Detailed notes on emissions excluded from our near-term 
+Scope 3 GHG reduction targets are provided in Appendix 1.
+We have set near-term GHG reduction targets which cover GHG emissions from our 
+operations (Scope 1 & 2) as well as our value chain (Scope 3).
+2 This target includes both FLAG emissions and FLAG removals. 
+3 We will retire our current value chain emissions intensity targets once our new near-term Scope 3 GHG reduction targets have been 
+validated by the Science Based Targets initiative (SBTi).
+Scope 3 emissions 
+in scope of 
+Net Zero by 2039 ambition
+Scope 3 emissions 
+in scope of near-term 
+GHG reduction targets
+42%
+absolute reduction in Scope 3 energy 
+and industrial GHG emissions (vs 2021)
+absolute reduction in Scope 3 forest, land 
+and agriculture GHG emissions (vs 2021)
+30.3%
+Out of scope of 
+near-term GHG 
+reduction targets
+15Mt
+Energy and 
+industrial 
+emissions
+29Mt
+Forest, land 
+and agriculture 
+emissions
+11Mt
+11
+Our plan
+
+--- Page 12 ---
+Unilever Climate Transition Action Plan
+Our Net Zero by 2039 ambition
+Our Net Zero by 2039 ambition remains unchanged.
+	• Achieve net zero GHG emissions covering Scope 1,2 & 3 (excluding indirect consumer 
+use emissions) by 2039. 
+
+Unilever will seek to balance any unabated emissions within the scope of our Net 
+Zero ambition, from 2039, with the same volume of carbon removals. It is clear that 
+for the world to keep global warming close to 1.5°C in line with the Paris Agreement, 
+emissions must continue to reduce beyond this date to the minimum level that is 
+technically feasible by 2050. 
+This will require further systemic change in industry, agriculture and consumption, 
+driven by innovation and policy, and Unilever is committed to playing a leading role in 
+enabling this long-term transformation.
+
+
+We have begun to engage in selective industry roundtables on the subject of carbon 
+removals. This will be an area of rapid innovation over the coming decade and the most 
+recent IPCC assessment report (March 2023) identified that the deployment of carbon 
+removals will be necessary to achieve global net zero GHG emissions. 
+We believe it is important to consider issues of the quality and permanence of carbon 
+removals used to support net zero goals, particularly the non-equivalence of fossil fuel 
+emissions and biogenic carbon removals. To the extent that carbon removal solutions 
+have a land footprint, we are also sensitive to the potential unintended consequences for 
+Indigenous peoples, local communities, and other environmental indicators more broadly. 
+These concerns should be reflected in all organisations' future carbon removal strategies.
+This is based on the definition of ‘net zero' set by the UN Intergovernmental Panel on 
+Climate Change (IPCC). The IPCC defines net zero as a state in which anthropogenic 
+GHG emissions to the atmosphere are balanced by anthropogenic GHG removals 
+from the atmosphere over a defined period. 
+12
+Our plan
+
+--- Page 13 ---
+Unilever Climate Transition Action Plan
+Our emissions reduction plan
+Ultimately our intention is for our emissions reduction 
+plan to cover all the emissions within the scope of our Net 
+Zero by 2039 ambition. However, given the importance 
+of early action, the CTAP presented here focuses on the 
+emissions within the scope of near-term Scope 1, 2 & 
+3 GHG reduction targets where we have the greatest 
+potential to make an impact and access to better data to 
+track our performance. 
+
+In 2023, each of our five Business Groups identified the 
+priority action areas towards delivering these targets. 
+They cover key phases of the lifecycle of our products, 
+including the raw materials we purchase, their production 
+and distribution, packaging, direct emissions in the 
+consumer-use phase, and finally, their end of life. Some 
+action areas are relevant to all Business Groups (such 
+as the Supplier Climate Programme, Packaging, and 
+Logistics). Others are specific to one or more Business 
+Groups (US and Canada Aerosol Propellants for Beauty & 
+Wellbeing and Personal Care, Ice cream Cabinets for Ice 
+Cream). The action areas have now been integrated into 
+each of our Business Groups' financial growth plans.
+
+
+
+The most significant challenge for our near-term Scope 
+3 GHG reduction targets relates to the emissions in 
+our Home Care business, where commercially viable 
+pathways to reduce emissions from energy-intensive 
+chemical feedstocks by 2030 are not yet clear. This is a 
+significant strategic challenge for Unilever and for other 
+companies that are dependent on similar supply chains.
+These plans identify actions capable of delivering 
+our near-term Scope 1 & 2 GHG reduction target and 
+approximately two-thirds of our near-term Scope 3 
+GHG reduction targets, with one-third left to find in the 
+coming years. We believe this innovation and scaling gap 
+demonstrates that our targets are suitably ambitious and 
+stretching, and also underscores the need to continually 
+search for new solutions and ways to scale existing ones 
+faster than is currently possible. 
+
+Supplier Climate 
+Programme
+Reformulating 
+products
+Forest-risk 
+commodities
+Regenerative 
+agriculture
+Packaging
+Logistics 
+Ice cream 
+cabinets
+Aerosol 
+propellants
+Our operations
+Chemical
+ingredients
+13
+Our plan
+
+--- Page 14 ---
+Unilever Climate Transition Action Plan
+Our 
+operations
+14
+Our operations
+
+--- Page 15 ---
+Unilever Climate Transition Action Plan
+Our operational emissions are within our direct control. We aim to reduce all 
+operational emissions from electricity, heat, and refrigerants by 100% by 2030. We 
+have achieved a 74% emissions reduction vs 2015 (achieving our near-term Scope 
+1 & 2 GHG reduction target two years early), primarily through our transition to 
+renewable electricity, coupled with energy efficiency programmes.
+Key actions
+Over the next three years, we plan to invest €150m in our manufacturing decarbonisation 
+programme focused on three key areas: 
+	• Decarbonise our thermal and electrical energy
+	- 	Improving thermal efficiency (e.g. by reusing waste heat)
+	- Improving electrical efficiency (e.g. by installing more efficient equipment and controls)
+	- Introducing more solar thermal technology
+	- Electrifying thermal processes 
+	- Transitioning to sustainably sourced biofuels, such as biomethane
+A key project in this area is moving from natural gas to biomethane at our Oleochemicals 
+plant in Indonesia. The biomethane will be produced using palm oil mill effluent from low-
+risk deforestation-free mills in our supply chain.
+	• Increase our use of renewable power
+	- Exploring increased on-site renewable electricity generation
+	- Enabling off-site renewable electricity generation through large-scale, physical, and 
+virtual power purchase agreements (PPAs)
+	• Reduce emissions from refrigeration
+	- Continuing our phase-out of high-impact HFC refrigeration systems
+	- Training our teams on how to identify, report, and prevent leaks from existing systems
+Reduction in Scope 1 & 2 GHG emissions 
+achieved in 2023 vs our 2015 baseline
+74%
+Our operations (Scope 1 & 2)
+15
+Our operations
+
+--- Page 16 ---
+Unilever Climate Transition Action Plan
+Dependencies
+	• Availability of cost-effective thermal energy solutions. We are working to accelerate 
+the adoption of renewable thermal technologies and advocating for supportive policies 
+through coalitions such as the Renewable Thermal Collaborative in the US.
+	• Local availability of sustainably sourced biofuels. This helps to support the transition 
+away from fossil fuels.
+	• Continued validity of market-based mechanisms for renewable energy. This includes the 
+validity of unbundled Energy Attribute Certificates (EACs) within reporting frameworks 
+such as the GHG Protocol for renewable electricity sourcing. As a member of RE100 
+(led by Climate Group), we adhere to its technical criteria and advocate for quality and 
+additionality in our renewable electricity sourcing to ensure EACs remain a legitimate 
+route for sourcing renewable power.
+16
+Our operations
+
+--- Page 17 ---
+Unilever Climate Transition Action Plan
+Our value 
+chain
+17
+Our value chain
+
+--- Page 18 ---
+Unilever Climate Transition Action Plan
+Our value chain (Scope 3)
+Our plan to progress towards our near-term Scope 3 GHG reduction targets has nine priority action areas.
+Details of the actions we are taking in each of the nine areas are set out on the following pages.
+Scope 3 GHG reduction plan
+2021
+Baseline
+2030 Estimated 
+emissions from 
+volume growth
+Supplier Climate 
+Programme
+Reformulating 
+products
+Forest-risk 
+commodities
+Regenerative 
+agriculture
+Chemical 
+ingredients
+Packaging
+Logistics 
+Ice cream 
+cabinets
+Aerosol 
+propellants
+Innovation and 
+scaling gap4 
+2030 target
+100
+61
+0
+120
+% of emissions 
+in scope of 
+near-term 
+Scope 3 GHG 
+reduction 
+targets
+4 The innovation and scaling gap represents the amount of GHG emissions for which we need to develop new or scale existing solutions.
+18
+Our value chain
+
+--- Page 19 ---
+Unilever Climate Transition Action Plan
+Supplier Climate Programme
+Our Supplier Climate Programme, launched in 2021, is focused on accelerating 
+the transition of key suppliers to a position of climate leadership. We define this 
+as suppliers having set their own science-based GHG reduction targets, publicly 
+reporting progress against their targets, and having the capacity and capability to 
+provide us with a Product Carbon Footprint (PCF) for the materials we buy.  
+By the end of 2024, we aim to have reached 300 of our 
+most emissions-intensive suppliers (who account for 
+approximately 44% of our Scope 3 GHG emissions related 
+to raw materials, ingredients and packaging), building 
+their climate capabilities in support of these goals. These 
+suppliers include third-party manufacturers who produce 
+finished goods for Unilever. 
+	• Create innovation partnerships with select suppliers for GHG reduction. We are running 
+in-depth workshops with a subset of our suppliers to identify innovation partnerships and 
+high-impact emissions reduction opportunities. From 2024, we will begin to equip our 
+procurement team with the capability to interpret and meaningfully integrate emissions-
+intensity data and emissions reduction into their commercial strategies. 
+	• Actively engage with industry-wide initiatives to drive standardisation and scale up 
+approaches to climate action and transparency. These initiatives include:
+	- Partnership for Carbon Transparency (PACT)
+	- Scope 3 Peer Group
+	- 1.5°C Supply Chain Leaders Group
+	- World Business Council for Sustainable Development (WBCSD) Climate Imperative
+	- Environmental Defense Fund's Net Zero Action Accelerator 
+Dependencies
+	• Industry alignment around common requirements and methodologies for PCF data. 
+This ensures suppliers can comply with customer requests for GHG data development 
+and sharing and will ultimately enable us to meet the same customer requests. To 
+achieve a position where we can fully integrate PCF and emissions reduction data into our 
+procurement decisions, we depend on the wider consumer goods industry moving in a 
+similar direction.
+emissions-intensive 
+suppliers onboarded 
+by end 2024
+300
+of targeted 
+reductions
+14%
+Key actions
+	• Scale up the Unilever Supplier Climate Programme. We are co-funding supplier access 
+to expert support services, sharing best practice knowledge and industry examples to 
+develop an emissions baseline, and providing assistance in setting GHG reduction targets 
+and guidance in developing GHG reduction plans.
+19
+Our value chain
+Supplier Climate Programme
+
+--- Page 20 ---
+Unilever Climate Transition Action Plan
+Reformulating products 
+Reformulating our products is one of our biggest opportunities to reduce emissions. 
+Importantly, we are taking action without compromising on product performance or 
+consumer experience. 
+Key actions
+	• Reformulate our Home Care products to use innovative lower-GHG ingredients. 
+Following the successful launch in 2023 of a new generation of fast-dissolving, cold-wash 
+ready, concentrated laundry capsules in the UK and France, we will roll out this innovation 
+further in the next couple of years.
+	• Use plant-based and lower-GHG food ingredients in Nutrition. We have successfully 
+launched low-oil mayonnaise, reduced monosodium glutamate (MSG) bouillon, vegan 
+mayonnaise and other plant-based products. In the next few years, we will continue to 
+scale these products globally.
+	• Increase plant-based ice cream options and alternatives. We are continuing to make 
+indulgent, plant-based variants an integral part of new product ranges in priority markets, 
+such as Ben & Jerry's in Europe. In addition, we continue to explore the introduction of 
+plant-based protein and fat alternatives where appropriate elsewhere in our portfolio.
+	• Reduce palm oil usage in soap bars. Considerable research is underway to lower 
+the emissions intensity of soap bars by reducing the use of oils, while simultaneously 
+aiming to maintain and improve the consumer experience. Specifically, we are working 
+to replace high GHG-impact palm oil-derived materials with novel, low GHG-impact 
+structuring technologies. 
+Dependencies
+	• Increased consumer acceptance of plant-based products and 
+technological developments. In the coming years, research into 
+consumer perceptions and R&D investment to build confidence in the taste 
+and texture comparability of plant-based products will be a priority.
+	• Changes to national Standards of Identity (SOI). We are required to align our product 
+content and production methods with SOI in different markets – for example, the 
+minimum quantity of vegetable oil in our mayonnaise or levels of dairy in our ice creams. 
+We continue to engage with governments to ensure our ability to market our products 
+successfully in geographies where these SOI challenges apply.
+of targeted 
+reductions
+13%
+20
+Our value chain
+Reformulating products
+
+--- Page 21 ---
+Unilever Climate Transition Action Plan
+of targeted 
+reductions
+10%
+Forest-risk commodities 
+The GHG emissions from the production of our key forest-risk commodities (i.e. palm oil, paper 
+and board, tea, soy and cocoa) arise from land use change (e.g. deforestation), agricultural 
+practices and downstream processing. In 2020, we set a goal to achieve a deforestation-free 
+supply chain in palm oil, paper and board, tea, soy and cocoa. By the end of 2023, we had put 
+in place the infrastructure, monitoring and verification systems to manage a deforestation-free 
+supply chain. For example, we have strengthened the traceability and transparency of our palm 
+oil supply chain by using satellite imagery and geolocation data to measure deforestation.
+Additionally, 97.5% of our palm oil, paper and board, tea, soy and cocoa order volumes were 
+deforestation-free by the end of 2023, based on Unilever's deforestation-free requirements.
+Key actions
+	• Invest in our value chain to meet current and future demand for deforestation-free 
+commodities. We will continue to work with suppliers to build the right infrastructure and 
+systems to meet our deforestation-free requirements. Initially, this means fewer suppliers in 
+deeper partnerships. Additionally, we are building and investing in more infrastructure (e.g. 
+our cumulative investment of US$350m in our Unilever Oleochemicals facility in Indonesia), 
+and therefore, increasing sourcing at the primary production and farm level. This will help us 
+support more suppliers to onboard and transition to deforestation-free and net zero. We are 
+also working to improve the management of palm that continues to be grown on peatland, 
+while also seeking to source primarily from areas not exposed to peatland. All of these efforts 
+will be supported by our investments in technology to enhance traceability and improve 
+monitoring capabilities to measure GHG emissions along the supply chain and at farm level.
+	• Enrol suppliers and smallholder farmers in our programmes. In doing so, we can help 
+them improve practices and ensure they do not contribute to land use change, while also 
+helping them improve their agricultural productivity and income. These efforts will be 
+critical in reducing their GHG emissions and building an inclusive climate transition.
+	• Drive improvements in the processing of forest-risk commodities. We do this by 
+encouraging investment in managing and capturing these emissions with our strategic 
+partners. A key focus will be on reducing methane emissions from palm oil mill 
+effluent (POME).
+
+Dependencies
+	• Availability of deforestation-free and lower-emission commodities. As other companies 
+look to improve their practices, including in response to the introduction of regulations 
+such as the EU Deforestation Regulation, the availability of deforestation-free 
+commodities may continue to become more constrained. Similar constraints may affect 
+the sourcing of palm oil in line with best practice standards, e.g. not grown on peatland. 
+We will engage with a range of local stakeholders to ensure ongoing access.
+	• Adoption of consistent standards for forest-risk commodities and level playing fields 
+globally. While regulations may introduce a level playing field in certain markets, others 
+may continue to operate on different standards. A lack of consensus around forest-risk 
+commodity management would continue to disrupt efforts to manage deforestation-free 
+supply chains. We will continue to advocate for level playing fields and consensus around 
+best practice.
+21
+Our value chain
+Forest-risk commodities
+
+--- Page 22 ---
+Unilever Climate Transition Action Plan
+Engaging communities in landscape-level 
+approaches to climate and nature
+Through our no-deforestation programmes, we are investing in reducing land-use 
+impacts within our value chain. We are also looking to invest in the landscapes and 
+jurisdictions around our sourcing locations. This means engaging with smallholder 
+farmers, civil society, governments, businesses, and communities to support the design 
+and implementation of strategic programmes that can positively transform five different 
+palm oil production landscapes. 
+
+Our current landscapes already cover a total area of 9m hectares across Latin America, 
+South East Asia, and Africa. Within these regions, we are helping to protect and restore 
+over 200,000 hectares of forests and have a pipeline of projects that would extend to 
+cover a further 300,000 hectares. We also seek cooperation that will allow us to scale our 
+projects faster and further. As partners of the Rimba Collective, we are collaborating on 
+projects such as the Dove Nature Regeneration Project that will help protect and restore 
+an area of forest eight times the size of Manhattan, while supporting local communities 
+to thrive. 
+of targeted 
+reductions
+10%
+22
+Our value chain
+Forest-risk commodities
+
+--- Page 23 ---
+Unilever Climate Transition Action Plan
+Regenerative agriculture 
+Our focus on regenerative agricultural practices aims to deliver positive impacts on soil 
+health, farm biodiversity, and the resilience of agricultural systems, all while reducing 
+carbon emissions and revitalizing land. Currently, we have 46 projects in collaboration 
+with our suppliers, covering 270,000 hectares of land transitioning to regenerative systems. 
+These efforts are instrumental in producing key ingredients for our Nutrition and Ice Cream 
+products, including rice, soybeans, wheat, rapeseed, corn, tea, and dairy products.
+
+In 2021, we published our Regenerative Agriculture Principles and have since been 
+collaborating with our farmers and suppliers to implement practices tailored to local 
+contexts, including:
+Our primary objective, especially in the initial years, is to reduce emissions at the farmer 
+level. However, we also recognize the potential to sequester carbon dioxide from the 
+atmosphere and store it in the ground as soil organic carbon, particularly within our soy and 
+rapeseed oil value chains.
+of targeted 
+reductions
+4%
+Key actions
+	• Scale up adoption of regenerative agriculture. In our Nutrition business group, we aim to 
+cover 650,000 hectares by 2027. This represents approximately 50% of our land footprint in 
+Nutrition. Priority-crop geography combinations include soy in Brazil and the US, and 
+rapeseed in the UK and EU, particularly in Germany and Poland. We estimate the currently 
+identified regenerative agriculture projects will cumulatively cost c. €140m in the period to 
+2030. In addition to lowering emissions, this will promote the resilience of our supply chain, 
+reducing sources of volatility and safeguarding our access to raw materials.
+	• Expand our Lower Carbon Dairy Programme. By 2030, we aim for a significant portion of 
+our global dairy volume to be sourced from farms implementing regenerative agricultural 
+practices, predominantly across the US, Europe, India, and Turkey. In 2024, we will evaluate 
+the results of a dairy pilot project conducted by Ben & Jerry's in the US and the Netherlands. 
+This will provide us with valuable insights and help us recruit additional farmers to 
+broaden the programme's scope. From 2025, we aim to expand the programme's 
+implementation by introducing similar initiatives across two additional markets.
+	• Work together across shared supply chains. We are working in transparent, pre-
+competitive partnerships with other businesses with whom we share suppliers. This 
+cooperation will amplify the impact of our programmes, leading to more effective 
+transitions and greater overall benefits across environmental, social, and economic 
+dimensions. For instance, our alliance with PepsiCo in Iowa has already enabled us to pool 
+resources and scale projects efficiently, even when our procurement constitutes only a 
+fraction of a farmer's total agricultural yield.
+the use of cover crops
+mitigating enteric emissions 
+and emissions from livestock 
+feed production
+crop rotation
+effective manure management 
+reduced tillage
+optimizing milk processing
+the substitution of synthetic 
+fertilisers with natural alternatives
+23
+Our value chain
+Regenerative agriculture
+
+--- Page 24 ---
+Unilever Climate Transition Action Plan
+Dependencies
+	• Farmer capacity and capability to implement regenerative agricultural practices. 
+To address this, we are investing in programme management and training to expand the 
+number of skilled professionals for comprehensive solutions and farmer engagement. We 
+are also establishing a network of regional partners with technical agronomical expertise 
+across Latin America, Europe, and the US, bolstering the capabilities of farmers within 
+these regions.
+	• Shared understanding of regenerative agriculture principles and practices. 
+There is a pressing need for an industry-wide, outcome-oriented framework 
+encompassing a shared understanding of regenerative agriculture principles and 
+practices and a practical approach to data handling, measurement, reporting, and 
+verification. We will continue to work collaboratively with others to achieve this.
+	• Supportive regulatory environment. An accelerated 
+adoption of regenerative agricultural practices requires 
+a supportive regulatory environment that mitigates 
+risks for farmers. This includes financial incentives for 
+farmers to transition to and maintain the practices, such 
+as subsidies included in national policies and incentive 
+schemes. We are working collaboratively on this in the US, 
+EU, and India and expanding to other geographies with 
+project implementation.
+of targeted 
+reductions
+4%
+Spotlight on the GHG Protocol
+Accurately quantifying the emissions reduction or carbon removal benefits of the 
+agricultural practices we support in our upstream value chain is critical to meeting our 
+targets. We adhere to the GHG Protocol Standards but believe they will need to evolve 
+if companies are to be encouraged to contribute to collective efforts to protect and 
+regenerate nature within the agricultural landscapes from which they source. This could 
+mean permitting companies to account for a share of GHG emissions reductions or 
+removals within the supply sheds from which they source, even in the absence of physical 
+traceability. In our plan, we assume that these changes will come about in the next seven 
+years and therefore, that Unilever will be permitted to count the benefits of our work in 
+forest-risk commodities, regenerative agriculture, and lower carbon dairy towards the 
+delivery of our near-term Scope 3 GHG reduction targets. We plan to actively engage with 
+the GHG Protocol to shape the evolution of these standards. Without such an evolution, 
+many companies, including Unilever, will struggle to demonstrate how they are meeting 
+their ambitious GHG reduction targets. 
+24
+Our value chain
+Regenerative agriculture
+
+--- Page 25 ---
+Unilever Climate Transition Action Plan
+Chemical ingredients 
+Two key chemical ingredients contribute a significant proportion of our Scope 3 GHG 
+emissions: linear alkylbenzene sulphonate (LAS) and soda ash.
+Linear alkylbenzene sulphonate (LAS)
+Linear alkylbenzene sulphonate (LAS) is an organic chemical used as a surfactant (or 
+cleaning agent) in Home Care products such as laundry detergents. LAS has historically 
+been derived from petrochemical feedstocks. The emissions of petrochemical-derived LAS 
+can be divided into two types: first, the GHG emissions when it is produced (approximately 
+34%) and second, the GHG emissions through biodegradation when the product is used and 
+passes into wastewater (approximately 64%). 
+Soda ash
+Soda ash is the second-biggest contributor to the GHG ingredient emissions of our Home 
+Care business. It is an inorganic chemical used as a key ingredient in laundry powders, the 
+most popular laundry detergent format in key markets such as India, Brazil, and China. 
+Soda ash is either mined or produced synthetically. Mined soda ash generally has a lower 
+GHG intensity but is unavailable in some of our key markets. Where it is not available, we 
+rely on synthetic soda ash production. Synthetic soda ash is energy-intensive and, due to 
+the markets where it is produced, this energy is often produced by burning coal. Ammonia, 
+a key ingredient used in the manufacture of synthetic soda ash, also has a high GHG 
+emissions intensity. 
+of targeted 
+reductions
+6%
+25
+Our value chain
+Chemical ingredients
+
+--- Page 26 ---
+Unilever Climate Transition Action Plan
+Key actions
+	• Reduce the GHG intensity of LAS production. To reduce emissions from production, we 
+encourage our suppliers to use renewable energy. Additionally, along with SCI (Society 
+of Chemical Industry), we are spearheading the £5.4m Flue2Chem project in the UK, 
+collaborating with 13 other partners to take waste gas from foundation industries such 
+as metal, glass, paper, or chemicals and generate an alternative source of carbon for 
+surfactant production. 
+	• Reduce the GHG intensity of soda ash production. Building on the work done with our 
+soda ash suppliers for the past three years, we will scale up the use of soda ash with 
+lower-than-average GHG emissions, predominantly using energy sources such as natural 
+gas and biomass. We also intend to pilot an innovative technological solution to produce 
+synthetic soda ash from green ammonia.
+Dependencies
+	• Industry cooperation and advocacy. Low-carbon, synthetic soda ash production requires 
+a cooperation between end-users, soda ash manufacturers and the fertiliser industry – 
+which uses ammonia in high quantities – to change the energy systems through which 
+synthetic soda ash is produced and to develop a cost-effective supply of 'green' ammonia. 
+	• Supplier climate action. We depend on ongoing innovation partnerships with suppliers 
+to develop and procure low-carbon soda ash. To encourage these partnerships, we are 
+evolving our procurement policy to consider the relative GHG emissions intensity of our 
+suppliers' products and to support suppliers in identifying, measuring, and reducing their 
+GHG emissions through our Supplier Climate Programme.
+	• A level playing field for the production of renewable linear alkylbenzene sulfonate 
+(LAS). LAS competes with sustainable aviation fuel for access to renewable feedstocks. 
+Currently, there are significant public subsidies and regulatory support for sustainable 
+aviation fuel, which do not exist for renewable LAS. Without equivalent support for 
+renewable LAS, commercial barriers to the adoption of renewable LAS at scale will remain.
+Progress at scale is only possible if our goals are shared with others in the surfactant value 
+chain, so we will collaborate and advocate for policies that support our plan. This includes 
+advocating for incentives that make renewable LAS an attractive business opportunity 
+for both LAS producers and end users such as Unilever. We will continue to partner with 
+key surfactant and inorganic chemical suppliers to drive ingredient and manufacturing 
+reductions that reduce emissions. In addition we are engaging 74 Home Care suppliers in 
+the Supplier Climate Programme.
+of targeted 
+reductions
+6%
+26
+Our value chain
+Chemical ingredients
+
+--- Page 27 ---
+Unilever Climate Transition Action Plan
+Packaging 
+Emissions from packaging are a significant contribution to our total Scope 3 GHG emissions 
+and predominantly arise during two lifecycle stages: at feedstock creation, for example, 
+where plastics traditionally use fossil fuels, and at end of life, particularly if disposed of 
+through incineration or landfill. Our progress within this action area is demonstrated 
+through our continued use of post-consumer recycled plastic (PCR), which increased from 
+18% in 2021 to 22% in 2023 thereby further reducing our dependence on virgin fossil-fuel-
+derived plastics.
+Key actions
+	• Reduce our overall packaging material use. We are designing new product formats, 
+like laundry sheets and shampoo bars, which permit innovative packaging that requires 
+fewer materials while also using advanced digital modelling techniques to identify new 
+opportunities to reduce the weight of our products. Scaling this up can be challenging 
+given sustained consumer preference for convenience, value, and performance.
+	• Transition towards increased use of recycled and renewable feedstocks. We aim to 
+transition from virgin, fossil-fuel-derived materials to alternatives made of recycled 
+and renewable feedstocks to reduce the emissions of the packaging material we still 
+require. With mechanically recycled plastic estimated to have half the GHG footprint 
+of virgin fossil-fuel-derived plastic, and chemically recycled flexible plastic around 40% 
+less,5 increasing the use of PCR remains a priority. Our dedicated team, led from our R&D 
+Packaging Centre, continues working on new technologies and approval systems to 
+improve the quality and availability of PCR in cooperation with suppliers. 
+Further opportunities to increase the use of PCR are also created by extending its use 
+into new formats, such as toothpaste tubes and flexible packaging, with first launches 
+already in the market. We also aim to increase our use of recycled aluminium and paper 
+while developing new bio-plastic materials from renewable feedstocks and paper-based 
+packaging from non-forestry-derived fibres in cooperation with our suppliers.
+	• Design our packaging for recycling. We will continue to design our packaging for 
+recycling, to support the development of necessary waste management infrastructure, 
+maximise the value of collected waste and avoid emissions from end of life incineration. 
+72% of our plastic packaging portfolio is already designed for recycling, and we continue 
+to develop new packaging innovations to increase this figure.
+	• Advocate for better collection, recycling, and reuse infrastructure. To stimulate the 
+market for PCR content and improve the availability of high-quality recycled materials, 
+we support the development of necessary waste management infrastructure to maximise 
+the value of collected waste and avoid emissions from end-of-life incineration. Next to 
+this, we aim to scale up reusable packaging models. Based on our learnings from around 
+50 pilots, we are now working with industry peers and actively participating in initiatives 
+led by the World Economic Forum and the Ellen MacArthur Foundation to establish if 
+and how we can bring refill-reuse solutions to consumers in an effective, convenient, and 
+affordable way.
+5 Consumer Goods Companies Announce Position on Chemical Recycling Technologies and Publish Life Cycle Assessment - The Consumer Goods Forum
+of targeted 
+reductions
+3%
+27
+Our value chain
+Packaging
+
+--- Page 28 ---
+Unilever Climate Transition Action Plan
+Dependencies
+	• Implementation of regulated Extended Producer Responsibility (EPR) schemes. We will 
+continue advocating for well-designed EPR schemes, where companies such as Unilever 
+pay for and manage the collection and processing of packaging. EPR systems provide 
+dedicated financing for waste management, driving up recycling rates and the supply 
+of PCR. 
+	• Agreement of a global plastics treaty. As a member and co-chair of the Business 
+Coalition for a Global Plastics Treaty, Unilever is advocating for a high-ambition 
+outcome of a legally binding treaty that sets global, harmonised rules. Global action will 
+help create the systems-level change we need to reduce the production and use of 
+plastic through a circular economy approach, and to contribute to a reduction in global 
+GHG emissions. 
+	• Public policy that creates the right enabling environment for new packaging models 
+to succeed. This includes setting standards, metrics, and incentives for new refill-reuse 
+business models. 
+28
+Our value chain
+Packaging
+of targeted 
+reductions
+3%
+
+--- Page 29 ---
+Unilever Climate Transition Action Plan
+Logistics 
+We use logistics and distribution networks across the world to transport our raw materials 
+and products, resulting in GHG emissions from fossil fuel use. 
+Key actions
+	• Improve transport network efficiency. Our activities in the last three years have focused 
+on improving utilisation rates and reducing distances travelled. We expect most of our 
+reductions up to 2026 will rely on further operational improvements. Specifically, we 
+anticipate a total of 16% reduction in our upstream transport and distribution by 2026 
+as a result of network redesign, increased utilisation of intermodal transport, and various 
+operational efficiencies such as load-fill optimisation and reduced fuel consumption. 
+	• Scale up electric and alternative fuel vehicles. Beyond 2026, we expect to increase 
+our reductions coming from electric and alternative fuel vehicles. Over the next three 
+years, we plan to learn from our electric vehicle pilots to scale up the adoption of clean 
+technologies in key markets such as the US, Europe, China, and Brazil.
+
+Dependencies
+	• Accelerated decarbonisation of the transport sector. As we depend on third-party 
+transport equipment and wider transport infrastructure, the current pace of zero-emission 
+technology limits our ability to reduce emissions further. 
+	• Improved availability of alternative fuels, electric vehicles (especially heavy-duty 
+vehicles), and recharging infrastructure. At present, many of these remain limited 
+in many locations around the world. In addition, deep emissions reductions are only 
+possible when electricity generation supporting electrified transport modes is renewable. 
+We are reliant on governments in the markets we operate supporting the acceleration 
+and scale of clean technology adoption. 
+To address these dependencies, we continue to engage with several coalitions, councils, 
+and associations to accelerate the pace of change. These include the Smart Freight Centre 
+(an international industry coalition focused on reducing the emission impacts of freight 
+transportation), Cargo Owners for Zero Emission Vessels (a similar coalition aiming to 
+identify and implement emissions reduction solutions within shipping), and the Global 
+Maritime Forum. 
+of targeted 
+reductions
+2%
+29
+Our value chain
+Logistics
+
+--- Page 30 ---
+Unilever Climate Transition Action Plan
+Ice cream cabinets
+We have a global cabinet fleet of close to 3 million point-of-sale ice cream freezers, all of 
+which use electricity with associated GHG emissions. 
+Key actions
+	• Increase cabinet energy efficiency. We will continue renewing our cabinet fleet at the end 
+of life with more energy-efficient models, such as horizontal cabinets and those with more 
+efficient freezer components and technologies. We plan to prioritise significant markets 
+and those where the power grid has higher emissions intensity factors. By 2030, we aim for 
+all new cabinets to use more efficient components (such as compressors or fan motors) 
+and other design changes which can reduce cabinet energy usage by 15-20%. 
+	• 'Warm up' the cold chain. This involves raising the temperature settings of the cabinets 
+from the standard setting of -18°C to a higher setting of -12°C, requiring less energy. 
+The programme involves reformulation of some of our ice cream portfolio to ensure the 
+same quality and consumer experience at this warmer temperature. Based on trials in 
+Germany, we estimate that the temperature change has the potential to deliver 20-30% 
+energy reduction per freezer. Further trials will be conducted in Indonesia and other 
+early adopter markets over the next three years. The Indonesia pilot will include both 
+reformulated and naturally resilient ice cream products. In Q4 2023, we announced we 
+will grant free, non-exclusive licences for 12 reformulation patents to support industry 
+movement towards warmer cabinets and emissions reduction. Access to these patents is 
+intended to help the industry make the same transition. 
+	• Transition to renewable energy. For the energy use that cannot be reduced through 
+efficiency measures or our cabinet warming programme, we will support a transition to 
+renewable sources. We prefer this to happen through PPAs or green electricity tariffs that 
+promote the development of local renewable power markets. We will also explore direct 
+solutions such as solar panel installation at the retailer level. However, where these are 
+not possible or practicable, we will explore options such as the purchase of local energy 
+attribute certificates (EACs) to match the energy usage of our cabinets.
+of targeted 
+reductions
+19%
+30
+Our value chain
+Ice cream cabinets
+
+--- Page 31 ---
+Unilever Climate Transition Action Plan
+Dependencies
+	• Ongoing transition to renewable electricity. We assume that national electricity grids 
+will continue to transform towards renewables in line with current projections, and we will 
+continue to support this change through advocacy and engagement through campaigns 
+such as RE100.
+	• Market access to PPAs and ongoing acceptability of EACs. We assume access to power 
+purchase agreements in markets, as well as the acceptability of EACs for renewable 
+electricity produced within market boundaries – including their use for reporting Scope 3 
+emissions from leased assets.
+	• Change in freezer temperature regulations. Where we are looking to increase the 
+temperature of our cabinets, we will need to work with regulators to ensure alignment in 
+specific markets where regulations do not currently allow higher temperatures. Our plans 
+also require us to gain industry support and ensure compliance with competition laws. 
+We have already started engagement at the EU level with valuable feedback from the 
+ice cream and wider frozen food industry. We will look to extend our engagement with 
+industry peers worldwide. 
+of targeted 
+reductions
+19%
+Ice cream cabinets
+31
+Our value chain
+
+--- Page 32 ---
+Unilever Climate Transition Action Plan
+Aerosol propellants in 
+the US & Canada
+Propellants are ingredients used within products such as hair sprays, antiperspirant sprays, deodorants, and body sprays. 
+They are a growing format preferred by consumers due to characteristics such as their convenience, hygiene, and ease of use. 
+Outside of the US & Canada, Unilever uses natural hydrocarbon gases for these spray formats which are not classified as 
+GHG emissions. However, in part due to restrictions in the US and Canada regarding volatile organic compound (VOC) 
+regulations, our spray formulas in these markets use hydrofluorocarbon (HFC) propellants. These propellants typically 
+have a global warming potential (GWP) of around 164, meaning they are 164 times more potent than carbon dioxide in 
+contributing to global warming. 
+Key actions
+	• Develop alternative propellants for the US market. The regulations in the US have now changed and we can use less 
+GHG-intensive propellants. We are currently investigating alternative propellant solutions for the US.
+
+	
+		
+	
+Dependencies
+
+	
+•   Consumer acceptance of aerosol propellant innovations in the US and Canada markets.
+	 •   Removal of potential regulatory roadblocks in Canada. 
+	 To address these dependencies, we continue to develop and test alternative propellant systems that 
+reduce emissions without compromising the consumer experience, and to work with Environment 
+and Climate Change Canada to address potential regulatory roadblocks in that market.
+of targeted 
+reductions
+7%
+Retail emissions from  
+ice cream freezers
+32
+Our value chain
+Aerosol propellants
+
+--- Page 33 ---
+Unilever Climate Transition Action Plan
+Our wider 
+influence 
+on society
+33
+Our wider influence on society
+
+--- Page 34 ---
+Unilever Climate Transition Action Plan
+Our wider influence on society
+Our advocacy has formed a key part of our climate action to date and has been 
+recognised as industry-leading by InfluenceMap.6 We have developed a targeted 
+advocacy agenda with objectives up to 2030, many of which have been outlined above 
+as part of our plan to target specific emissions reductions (i.e. regenerative agriculture, 
+cold chain standards). We will also continue to advocate for policies that support 
+economy-wide transformation, including:
+	• Encouraging governments to raise national climate ambition in our markets to align 
+with a 1.5°C pathway in line with the more ambitious goal of the Paris Agreement.
+	• Scaling up renewable energy capacity and phase-out of fossil fuels. 
+	• Providing financial and policy support for forest protection and nature restoration.
+We will pursue broader support for these objectives at an international level via forums 
+such as the World Economic Forum's Alliance of CEO Climate Leaders, We Mean 
+Business Coalition, WBCSD, the Corporate Leaders Groups, and the Carbon Pricing 
+Leadership Coalition. 
+6 InfluenceMap Corporate Climate Leaders Report, 2023.
+Image: Climate Group
+34
+Our wider influence on society
+
+--- Page 35 ---
+Unilever Climate Transition Action Plan
+Policy advocacy in support of priority action areas
+We will advocate for policies that drive the global transition 
+to net zero and accelerate the impact of Unilever's 
+mitigating actions. Importantly, by supporting policies that 
+create a level playing field, we aim to de-risk the transition, 
+helping us achieve our ambitions without putting the 
+business at a competitive disadvantage.
+Our cross-cutting advocacy asks underpin 
+more specific advocacy in support of 
+individual action areas in our plan:
+	
+
+
+
+
+
+
+
+
+	
+Reformulating products: Ensure Standards of Identity rules 
+are not a barrier to portfolio development.
+
+Forest-risk commodities: Advocate for policies that facilitate 
+the maintenance of a deforestation-free supply chain 
+even when sourcing increasing volumes of ingredients in a 
+competitive market.
+
+Regenerative agriculture: Lobby for a regulatory landscape 
+that supports farmers to transition to and maintain a 
+regenerative agriculture approach.
+
+Chemical ingredients: Create a level playing field 
+that supports national policies that rapidly accelerate the 
+scale-up of non-fossil chemical feedstocks and addresses 
+energy emissions from ingredient production. 
+
+Key cross-cutting advocacy asks include:
+Packaging: Advocate for the development of Extended 
+Producer Responsibility (EPR) legislation, implementation 
+of regulated EPR schemes, and an agreed Global 
+Plastics Treaty.
+
+Logistics: Support policies that drive the clean transition 
+of transportation infrastructure, e.g. access to renewable 
+energy and EV infrastructure. 
+
+Ice cream cabinets: Improve access to renewable energy 
+and remove barriers to warming up the cold chain.
+
+Aerosols: Address potential regulatory roadblocks 
+in Canada.
+Raise the ambition 
+of national climate 
+strategies and plans in 
+key markets to align with 
+a 1.5°C pathway
+Ensure carbon is priced 
+at levels necessary 
+for the delivery of the 
+Paris Agreement
+Scale up renewable 
+energy capacity and the 
+rapid phase-out of fossil 
+fuels, including fossil 
+fuel subsidies
+Support forest 
+protection and 
+nature restoration
+Encourage the evolution 
+of the GHG Protocol 
+Standards to incentivise 
+emissions reduction 
+actions in value chains
+35
+Our wider influence on society
+
+--- Page 36 ---
+Unilever Climate Transition Action Plan
+Trade associations and industry partnerships
+Trade associations
+As we progress on our climate action journey, we want our industries to move forward 
+too. We have conducted an in-depth review of our main trade associations to assess their 
+alignment with the Paris Agreement and our climate policy positions and have published 
+this review on our website. We have also examined the extent to which we can influence 
+these positions.
+We have updated our internal trade association governance guidance to make clear that 
+when entering into a new trade associations membership or when renewing a membership, 
+our trade associations must confirm that their climate policy positions are aligned with 
+Unilever. If they are not, they must confirm why this is the case and whether they are open 
+to change. 
+Where we consider it necessary, we offer guidance and support to our trade associations to 
+help determine whether they are aligned with our climate policy positions and agree a way 
+forward when they do not. In some circumstances, a trade association may be advocating 
+for policy change that runs counter to Unilever's interests or position. In these cases, our 
+preference is to engage the trade association to determine a) why their position is at odds 
+with ours; and b) if their position(s) can change. If a trade association's position cannot be 
+made consistent with Unilever's, then we reserve the right to withdraw our membership and 
+make this information public.
+In some instances, there may be a clash of positions; however, we may decide that 
+Unilever's interests are best served by staying within the trade association. If this happens, 
+Unilever reserves the right to make a public statement to this effect: we will then continue 
+to work with the trade association to encourage it to align its climate policy position to 
+our own. 
+Industry partnerships and coalitions
+We believe that cross-industry action can contribute to achieving both our goals and 
+an economy-wide transition. We will continue to work with suppliers and industry peers 
+and participate in issue-specific coalitions, such as RE100, to achieve transformational 
+change within our chemicals and agricultural value chains. We will also continue to actively 
+participate in groups seeking to pioneer net zero pathways, such as the WBCSD, the 
+Exponential Roadmap Initiative and the We Mean Business Coalition. 
+36
+Our wider influence on society
+
+--- Page 37 ---
+Unilever Climate Transition Action Plan
+Governance 
+and 
+delivery
+37
+Governance and delivery
+
+--- Page 38 ---
+Unilever Climate Transition Action Plan
+Governance
+Unilever Board and Board committees
+The Board has overall accountability for the management of all risks and opportunities, 
+including those arising from climate change and our CTAP. Our CEO and Executive Board 
+member, Hein Schumacher, is ultimately responsible for overseeing our climate change 
+agenda and the implementation of our CTAP. The Board delegates responsibility for specific 
+matters related to climate change and our CTAP to different Board subcommittees: 
+	• The Corporate Responsibility Committee (CRC) has responsibility for the oversight of 
+Unilever's conduct regarding our corporate and societal responsibilities, our reputation 
+as a responsible corporate citizen, and our culture. The CRC reviews and provides input 
+to Unilever on the management of current and emerging sustainability matters affecting 
+the Unilever Group. It also provides external and independent oversight and guidance on 
+the environmental and social impact of how Unilever conducts business. The Committee 
+is responsible for reviewing the CTAP, ensuring we remain current and reviewing the 
+progress towards meeting targets, and providing recommendations to the Board in 
+relation to the development of the CTAP. The Committee reports all relevant matters 
+discussed at its meetings to the Board.
+	• The Audit Committee oversees the non-financial disclosures in our Annual Report and 
+Accounts, including the progress reports against the CTAP. This includes reviewing 
+the scope and results of any internal and external assurance activities obtained over 
+the disclosures. 
+Linking climate performance to 
+executive remuneration
+The Compensation Committee develops the Directors' Remuneration Policy and sets 
+performance measures designed to challenge and support the Executive Directors to 
+drive shareholder value, while delivering our sustainability commitments, including 
+climate-focused targets. In March 2024, we will propose amendments to our Remuneration 
+Policy which, if approved by shareholders at the 2024 AGM, would result in a Sustainability 
+Progress Index (including climate targets) with a 15% weighting for 2024 Performance 
+Share Plan (PSP) awards onwards. The PSP will, if approved, apply to members of the 
+Unilever Leadership Executive (ULE) and our senior managers (approximately 500 
+employees) from 2024. The Remuneration Policy can be found in our Annual Report 
+and Accounts.
+Shareholder engagement
+The CTAP was put forward as an advisory vote at the company's 2021 AGM, which passed 
+with the support of over 99% of the votes cast. Similarly, shareholders will have the 
+opportunity to voice their support for this updated CTAP at the 2024 AGM. As was the case in 
+2021, this advisory vote in no way removes the Board's responsibility for this strategy. These 
+advisory votes are not mandatory but provide us with a more informed dialogue with our 
+shareholders. If the resolution were to receive less than 80% support, we would comply with 
+the UK Corporate Governance Code and consult shareholders as to why this was the case.
+38
+Governance and delivery
+
+--- Page 39 ---
+Unilever Climate Transition Action Plan
+Implementing and measuring progress against the plan
+The Corporate Responsibility Committee (CRC) delegates the day-to-day oversight of the 
+CTAP to the Unilever Leadership Executive (ULE), receiving updates on the progress of our 
+CTAP from the ULE four times a year. 
+The ULE comprises the CEO, CFO, and other senior executives, including the President of 
+each Business Group and the leaders of key functions. The ULE reviews progress against 
+our Net Zero by 2039 ambition, our near-term Scope 1 & 2 GHG reduction target, and our 
+near-term Scope 3 GHG reduction targets quarterly. The ULE is supported by our newly 
+created Unilever Leadership Council (ULC), a group of senior leaders including our Chief 
+Sustainability Officer. 
+Each of the Business Groups and Business Operations are responsible for the delivery of 
+their respective action areas as part of the CTAP, with a Sustainability Lead in each Business 
+Group. The Business Groups are supported by the Sustainability Function and the Business 
+Operations Sustainability team.
+Our Climate & Nature Investment Committee evaluates and approves investment 
+proposals and will review the progress of the Climate & Nature Fund. While investments 
+made possible by our Climate & Nature Fund have the potential to contribute to the 
+acceleration of our mitigating actions, it is not the primary financial resource used to deliver 
+our CTAP (see Financial Planning below).
+We will continue to report our progress against the CTAP within our Annual Report 
+and Accounts and align to best-practice disclosure standards including CDP and the 
+recommendations of the TCFD. Our approach to reporting will be informed by emerging 
+legislation such as the European Sustainability Reporting Standards (ESRS) requirements, 
+which apply to Unilever with effect from 1 January 2024.
+
+Supporting policies
+The implementation of our plan is supported by several Unilever policies.
+Our Environmental Policy defines our priority environmental focus areas. These include 
+Climate action, Protect and regenerate nature, and Waste-free world. In addition to the 
+sustainability priority areas defined by our strategy, we are committed to eco-efficiency 
+practices in our operations which reduce emissions to air, land, and water.
+Our Responsible Partner Policy (RPP) and its Fundamental Principles embody our 
+commitment to responsible, transparent, and sustainable practices, describing what 
+Unilever requires of business partners so we can do business together responsibly. 
+Requirements are divided into three pillars: Business Integrity and Ethics, Human Rights, and 
+Planet. More information on Unilever's work to embed respect for human rights across our 
+value chain can be found on our website. In September 2023, we published the first version 
+of our Principles in Support of Human Rights Defenders, including land and environmental 
+defenders, which includes complementary implementation guidance to support the 
+integration of these principles across our existing commitments and requirements.
+39
+Governance and delivery
+
+--- Page 40 ---
+Unilever Climate Transition Action Plan
+Our cross-commodity People & Nature Policy (P&N), also makes our no deforestation and 
+conversion, transparency and traceability, and human rights requirements clear to our 
+suppliers. We will seek to implement and independently verify the P&N policy's requirements 
+over time with all our suppliers. This requires a collaborative effort, which is why we take a 
+leading role in multistakeholder partnerships such as the Consumer Goods Forum's Forest 
+Positive Coalition (CGF), the Roundtable on Sustainable Palm Oil (RSPO) and the Palm Oil 
+Collaboration Group (POCG). 
+The Unilever Sustainable Agriculture Code (SAC) has been one of the major tools in our 
+sustainable sourcing programme since 2010. Through it, we have reached hundreds of 
+suppliers and hundreds of thousands of farmers, helping them implement the principles of 
+sustainable agriculture.
+Our Code of Business Principles: Respect, Dignity and Fair Treatment demonstrates our 
+values of integrity, respect, responsibility and pioneering. They govern everything we do. 
+Our Code Policies define the ethical behaviours that we all need to demonstrate when 
+working for Unilever. They are mandatory.
+40
+Governance and delivery
+
+--- Page 41 ---
+Unilever Climate Transition Action Plan
+Financial planning
+Our sustainability strategy, which includes our response to climate change, is embedded 
+into our overall business strategy. It is not possible to separate out the costs and 
+investments we are going to incur to address climate change mitigation or adaptation. 
+When we consider product innovation, for example, we are responding to many different 
+factors such as consumer needs, cost of different ingredients, quality and reliability of 
+sourcing ingredients, carbon intensity of ingredients or factory capabilities. This means it 
+is impossible to separate out one element of the cost or benefit, to be able to provide a 
+separate cost for our response to climate change. In addition, at this stage, the route map 
+to reach our Net Zero by 2039 ambition is not fully developed and so we are unable to 
+include all such costs in the long-term financial plans until solutions emerge. 
+Each of our five Business Groups has a financial growth plan which details the strategic 
+actions they are planning to take and the related financial investments and P&L impacts. 
+Within those plans, there may be a small number of costs related to a climate mitigation 
+activity, but disclosure of such individual costs would not be meaningful as it would only 
+represent a small element of the total embedded cost. Each year, we disclose how much 
+we are investing in very long-term, prospective, stand-alone climate and nature projects 
+through our reporting against our commitment to spend €1bn in this area from 2020 to 
+2030. We continually monitor the potential financial impact of various long-term climate 
+scenarios as detailed in our annual TCFD reporting which can be found in our Annual 
+Report and Accounts.
+41
+Governance and delivery
+
+--- Page 42 ---
+Unilever Climate Transition Action Plan
+Skills and training
+We are committed to fostering climate and sustainability literacy among our employees, 
+equipping them with role-specific skillsets. At Board level, the Nominating and 
+Corporate Governance Committee ensures the Board has sufficient sustainability 
+skills and experience and recommends membership of the CRC for appointment by the 
+Board. The Committee receives regular updates from management on climate risks 
+and opportunities and how the business is tackling these in the context of the CTAP. 
+The Committee also receives specific briefings on relevant issues such as net zero and 
+corporate target setting as well as on the most important action areas for achieving 
+Unilever's GHG reduction targets, such as regenerative agriculture. 
+At senior management level, we cultivate sustainability and climate-specific skills through 
+our Senior Strategic Leadership Programme. This includes skills for creating and executing 
+a sustainable business strategy and leading sustainable systemic transformation.
+We have partnered with external sustainability specialists for sustainability training 
+design and delivery. Our broader workforce has access to the Sustainability School 
+within our Unilever-wide learning platform. It offers a range of courses supporting 
+employees in delivering our strategy, including our climate targets. We also offer deep-
+dive external-accredited courses on a wide range of ESG topics, developed with UK and 
+European universities. 
+42
+Governance and delivery
+
+--- Page 43 ---
+Unilever Climate Transition Action Plan
+Internal carbon pricing
+We use an internal carbon price for capital expenditure decisions which the Carbon 
+Pricing Leadership Coalition determined would be consistent with achieving the 1.5°C 
+temperature goal of the Paris Agreement. The Carbon Pricing Leadership Coalition, of 
+which Unilever is a member, launched a High-Level Commission on Carbon Pricing in 
+2015. The Commission's report, released in 2017, concluded that a carbon price of $40-
+$80 per tonne of carbon dioxide equivalent (CO2e) by 2020, rising to $50-$100 per tonne 
+by 2030, when combined with supportive policies, would allow for the achievement of 
+the Paris goal. We therefore use a shadow carbon price of €70/t CO2e, a figure which is 
+reviewed annually. This provides an alternate view of capital expenditure business cases 
+with the benefits and risks associated with GHG emissions ‘priced in', and acts as a form 
+of carbon sensitivity analysis when making capital expenditure investment decisions in 
+our operations. 
+In practice, as not many of our operations are particularly energy-intensive, our Scope 
+1 & 2 GHG reduction targets act as a more significant decision factor than the shadow 
+carbon price. However, we believe the practice of internal carbon pricing is important 
+in signalling support for carbon pricing as a policy instrument, and forms part of our 
+commitment to align with the UN Global Compact's Business Leadership Criteria on 
+Carbon Pricing.
+43
+Governance and delivery
+
+--- Page 44 ---
+Unilever Climate Transition Action Plan
+The Unilever Climate & Nature Fund
+Our Climate & Nature Fund is an impact-led investment platform helping us to contribute 
+to a net zero world and positively impact nature, livelihoods, and resource efficiency. The 
+aim is to invest in strategic activities that seek to influence industry-wide change and help 
+us achieve our goals by integrating sustainability into a strategic value-creating agenda 
+for Unilever. 
+Because the required value-chain transformations will need to happen at industry level, 
+we are using the fund as a platform to inspire cooperation and generate co-financing to 
+scale results. Unilever has committed to investing €1bn between 2020 and 2030 through 
+the Climate & Nature Fund, and we hope to mobilise an equal amount in co-financing from 
+partners through vehicles such as the private equity impact fund created with AXA and 
+Tikehau Capital in 2022.
+At the end of 2023, the Climate & Nature Fund had spent and committed €286m since its 
+inception. Through our initial investments, we have learnt that the fund can open multiple 
+pathways of value creation for the organisation, be it through injecting resilience and 
+productivity in our value chain, reducing our exposure to regulatory costs or strengthening 
+the growth of our brands. For example, an investment in a joint venture with Genomatica, 
+a leader in biotech and sustainability, is being used to scale and commercialise 
+alternatives to palm oil and fossil-fuel-derived cleansing ingredients. Similarly, our 
+catalytic investment into a partnership with USAID is being used to foster the growth of 
+small and medium-sized enterprises (SMEs) which are strategic to building a more circular 
+economy for packaging. 
+44
+Governance and delivery
+
+--- Page 45 ---
+Unilever Climate Transition Action Plan
+Appendices
+45
+Appendices
+
+--- Page 46 ---
+Unilever Climate Transition Action Plan
+Technical notes on target scopes and emissions measurement
+Appendix 1
+Emissions covered by our near-term Scope 3 GHG 
+reduction targets
+Our near-term Scope 3 GHG reduction targets cover approximately 
+71% of the emissions in scope of our Net Zero by 2039 ambition. 
+The GHG Protocol Scope 3 Emissions categories included are listed 
+in the formal statement of our targets on page 11. This selection 
+ensures we place our attention where we can measure and seek to 
+reduce our emissions now while also, we believe, complying with 
+the criteria of the SBTi. 
+Emissions out of scope of our near-term Scope 3 GHG 
+reduction targets but relevant to our Net Zero by 
+2039 ambition
+Two notable emissions categories are out of scope for our near-
+term Scope 3 GHG reduction targets, but relevant to our Net Zero 
+by 2039 ambition: indirect procurement, and third-party contract 
+manufacturing outside of India.
+
+One of the challenges with these categories of emissions is 
+that accurate, supplier-specific data is not readily available 
+to us, which means that reporting will be based exclusively on 
+estimated, industry-average data which is not affected by the 
+specific business decisions we make. Over time we expect this 
+data to improve, but in the short term we have chosen to focus on 
+improving the data quality of the emissions categories which are 
+covered by our near-term targets.
+Indirect procurement covers the purchasing of other goods and 
+services that do not directly go into our products. The largest 
+category of spend here is our advertising and media spend. 
+Unilever has been encouraging the advertising industry to step 
+up, helping to establish global industry initiatives Ad Net Zero 
+with the Advertising Association, and the Planet Pledge with the 
+World Federation of Advertisers. The advertising industry is at an 
+early stage in understanding its GHG emissions and how it can 
+better drive action, and we will continue to support our media 
+partners as they embark on this journey.
+Third-party contract manufacturers (CM) are used by Unilever 
+to manufacture products on our behalf. While most Unilever 
+products are made in our own factories, a proportion of the 
+products (estimated at roughly 15% of the emissions in scope 
+of our Net Zero by 2039 ambition) we sell are made for us to 
+specifications and formulations set by us. India being the most 
+material country in terms of CMs' footprint (roughly 25% of 
+our total GHG emissions from CMs), we have begun engaging 
+our Indian CMs on the emissions reduction journey and have 
+included CMs in India within our Scope 3 target. As we progress 
+and learn how to most effectively engage CMs, we will consider 
+expanding the number of CMs in scope.
+
+
+
+
+Other smaller emissions sources excluded from the scope of 
+our near-term targets include capital goods, waste generated 
+in our operations, business travel and employee commuting, 
+downstream transport and distribution, and franchises.
+Note that while business travel is not a particularly significant 
+source of emissions for Unilever, we recognise that it is 
+nevertheless one that stakeholders expect us to tackle. We 
+continue to participate in groups such as EV100, which are also 
+raising the bar to encourage companies to move away from 
+electric hybrids to 100% electric vehicles.
+
+Restatement of emissions data: We anticipate that there 
+could be further restatements in our emissions data in future 
+years, because of evolving reporting requirements and or IPCC 
+updates on official carbon conversion factors depending on 
+the significance of such changes. Restatements may also be 
+made to correct errors in our reporting, as a result of incorrect 
+data or calculations or when we need to reflect the impact of an 
+acquisition or disposal to ensure disclosures are meaningful. We 
+will only restate when there is a material impact on the metrics 
+being reported and only then if good quality data is available. 
+If good quality data is not available, we will write a narrative 
+explaining the limitations of the prior year comparatives or 
+baseline years.
+46
+Appendices
+
+--- Page 47 ---
+Unilever Climate Transition Action Plan
+Our position on carbon credits
+Appendix 2
+Our position on carbon credits and offsetting remains unchanged 
+from the plan we published in 2021. 
+Delivery of GHG reduction targets
+We will not use carbon credits to meet our near-term GHG 
+reduction targets.
+Beyond Value Chain Mitigation (BVCM)
+We welcome the development of a robust, high-integrity 
+framework for BVCM claims. However, we believe that for 
+companies such as Unilever with significant potential to drive real 
+emissions reduction within our value chains, prioritising efforts to 
+reduce emissions in the value chain may be more attractive than 
+BVCM programmes, however high their quality.
+
+We recognise that voluntary carbon markets can provide 
+additional financial flows to strategic global priorities such as 
+tropical forest protection. These markets must be supported with 
+clear guidance to ensure that demand for high-integrity carbon 
+credits from companies who wish to make high-integrity voluntary 
+carbon market claims can do so without reducing the pressure to 
+drive technically and commercially feasible emissions reductions 
+at source.
+Use of carbon credits to support brand claims
+In 2023, none of our key brands made consumer-facing claims 
+backed by carbon credits. In the past, some Unilever brands 
+have sought to substantiate consumer-facing claims using 
+the purchase of carbon credits, such as 'carbon neutral' or 
+'climate neutral'. Increasingly, we expect brands not to follow 
+this approach. If brands should purchase carbon credits in 
+future, we are clear that this counts as a BVCM action from a 
+Unilever perspective. Any credits are not and will not be used 
+to contribute to the achievement of Unilever's near-term GHG 
+reduction targets. 
+Note on carbon removals
+Under SBTi rules, carbon removals within our value chain may be 
+counted towards achieving our near-term Scope 3 GHG (FLAG) 
+reduction target. We will not purchase carbon credits to meet 
+this target and intend to align closely with the SBTi and GHG 
+Protocol accounting standards as they develop. As of 2024, the 
+GHG Protocol Land Sector and Removals Guidance remains 
+in draft. We have taken this draft guidance into account when 
+preparing this revised plan. 
+47
+Appendices
+
+--- Page 48 ---
+Unilever Climate Transition Action Plan
+Glossary of key terms and acronyms
+Appendix 3
+Beyond Value Chain Mitigation (BVCM)
+
+
+
+
+
+
+Carbon credits	
+
+
+
+
+
+Carbon dioxide equivalent (CO2e)	
+
+
+
+Carbon removals	
+
+Deforestation
+
+Energy Attribute Certificate (EAC)	
+
+
+
+FLAG
+BVCM has emerged in the past three years to describe the practice of purchasing voluntary carbon credits as an additional action, above and beyond that which a 
+company takes to reduce emissions within its value chain.
+
+It distinguishes itself from the practice of ‘offsetting' in that companies are encouraged to purchase credits without making a climate or carbon neutrality claim. The 
+development of the claims architecture for BVCM claims has been led by the Voluntary Carbon Markets Integrity Initiative (VCMI), a group Unilever has engaged with over 
+the past three years. 
+
+Unilever does not use carbon credits to meet our near-term GHG reduction targets. A carbon credit is a financially tradable instrument that represents a reduction, 
+removal, or avoidance of one tonne of carbon dioxide equivalent achieved by a project. They are used by businesses and individuals to account for activity that they 
+have funded. Carbon credits have drawn criticism for their use in offsetting whereby a company uses carbon credits generated from projects outside its value chain to 
+compensate for emissions in its operations or within its value chain. Offsetting does not lower the company's gross emissions footprint. 
+
+This metric is used to measure and compare GHGs that are not carbon dioxide, so that their relative contribution to climate change, based on their global warming 
+potential (GWP), can be understood, and compared. 
+
+Carbon removals are generated by activities that draw down carbon from the atmosphere. Removals can be nature-based (e.g. reforestation) or technology-based (e.g. 
+direct air capture and underground storage). 
+
+Loss of natural forest as a result of i) conversion to agriculture or other non-forest land use; ii) conversion to a tree plantation; or iii) severe and sustained degradation.
+
+Energy Attribute Certificates (EACs) are contractual instruments that provide an energy buyer information (attributes) about the energy generated. They are most often 
+used for certifying that purchased energy has been generated by renewable sources. 
+
+FLAG emissions refer to GHG emissions from forests, land, and agriculture. 
+48
+Appendices
+
+--- Page 49 ---
+Unilever Climate Transition Action Plan
+Forest-risk commodities	
+
+GHG Protocol	
+
+Global Warming Potential (GWP)	
+
+Greenhouse gases (GHG)	
+Net zero
+
+
+
+
+
+
+Offsetting
+
+Science Based Targets initiative (SBTi)
+
+
+
+Value chain	
+Globally traded goods and raw materials that originate from tropical forest ecosystems, either directly from within forest areas, or from areas previously under forest 
+cover, whose extraction or production contributes significantly to global tropical deforestation and degradation.
+The Greenhouse Gas Protocol is an international organisation that provides standards and tools to consistently measure, manage and report the GHG emissions of 
+businesses and governments. 
+GWP measures how much infrared radiation one tonne of the greenhouse gas in question would absorb within a given time frame. It compares the relative contribution 
+of different greenhouse gases and estimates their aggregate impact. 
+Greenhouse gases are gases within the atmosphere that trap infrared radiation from the sun, preventing its reflection back towards space, leading to the warming of the 
+atmosphere. The main greenhouse gases include carbon dioxide, methane, nitrous oxide, and water vapour. Other synthetic materials are also classed as greenhouse 
+gases. Different GHGs have different levels of global warming potential (GWP). 
+The United Nations Intergovernmental Panel on Climate Change defines net zero emissions as when “anthropogenic emissions of greenhouse gases to the atmosphere 
+are balanced by anthropogenic removals over a specified period.” Our Net Zero by 2039 ambition means that we will seek to balance any unabated emissions within 
+the scope of our Net Zero by 2039 ambition, from 2039, with the same volume of like-for-like carbon removals. Whilst we are applying this UN definition in this CTAP, we 
+anticipate that this definition of 'net zero' will likely need to adapt over time to ensure alignment with developing global standards. Currently Race to Zero Criteria 3.0, 
+ISO Net Zero Guidelines (IEA 42:2022) and the SBTi Corporate Net Zero Standard have implemented alternative definitions and we expect work will be necessary to agree a 
+global standard.
+
+See Carbon credits.
+
+The Science Based Targets initiative is a partnership between CDP, the United Nations Global Compact, World Resources Institute (WRI), and WWF. It aims to catalyse 
+private sector action on climate change by supporting companies and financial institutions to understand how quickly they need to reduce emissions, to align with net 
+zero science-based targets, in line with the more ambitious Paris ambition of limiting warming to 1.5°C. 
+The full range of steps needed to create a product. It covers everything from the initial design all the way through to the end consumer and the product end of life. Value 
+chain activities and their resulting GHG emissions are often split into upstream (occurring before our business) and downstream (occurring after our business).
+49
+Appendices
+
+--- Page 50 ---
+Unilever Climate Transition Action Plan
+Overview of Unilever's climate change reporting
+Appendix 4
+As disclosure requirements develop, we will continue to align with best practice and new legislative such as 
+the upcoming European Sustainability Reporting Standards (ESRS).
+Information
+
+
+
+
+
+Format
+
+
+
+
+
+Location	
+Climate-related 
+risks and 
+opportunities
+
+
+
+Task Force 
+on Climate-
+related Financial 
+Disclosures (TCFD) 
+statement
+
+Published in our 
+Annual Report 
+and Accounts
+Clear plans 
+and targets 
+to transition 
+towards net zero 
+ambition 
+
+This document, 
+our Climate 
+Transition Action 
+Plan (CTAP)
+
+
+Published online 
+as a stand-alone 
+document
+Progress against 
+our transition 
+plans and targets
+
+
+
+CTAP Progress 
+Report
+
+
+
+
+Published in our 
+Annual Report 
+and Accounts
+Additional 
+climate 
+disclosures 
+for Unilever 
+stakeholders 
+
+CDP disclosure
+
+
+
+
+
+Published online 
+via the CDP 
+website
+50
+Appendices
+
+--- Page 51 ---
+Unilever Climate Transition Action Plan
+Disclaimers
+This document contains a number of graphics, infographics and 
+text boxes which aim to give a high-level overview of certain 
+elements of this Plan and improve the accessibility of this Plan for 
+readers. These graphics, infographics and text boxes are designed 
+to be read within the context of the Plan as a whole. 
+This document, and the information and data contained herein, 
+has been developed based on current information, estimates 
+and beliefs, using models, methodologies and standards which 
+are subject to certain assumptions and limitations, including 
+(but not limited to) the availability and accuracy of data, lack of 
+standardisation of data and lack of historical data, as well as other 
+future contingencies, dependencies, risks and uncertainties (due to, 
+among other things, global and regional legislative, judicial, fiscal, 
+technological and regulatory developments including regulatory 
+measures addressing climate change). As a result, such models, 
+methodologies, and standards may be subject to adjustment 
+beyond the control of Unilever and may change over time. Unilever 
+does not undertake to update any such statements, information or 
+data contained herein, nor to inform you if any statements, data, or 
+information contained herein change in future.
+This document also contains data on Unilever’s Scope 1, 2 
+and 3 emissions. Some of this data is based on estimates, 
+assumptions and uncertainties. Scope 1 and 2 emissions data 
+relates to emissions from Unilever’s own activities and supplied 
+heat, power and cooling and is generally easier for Unilever to 
+gather than Scope 3 emissions data. Scope 3 emissions relate 
+to other organisations’ emissions and is therefore subject to 
+a range of additional uncertainties, including that: data used 
+to model lifecycle footprints is typically industry-standard 
+data or estimates rather than relating to individual suppliers; 
+and lifecycle models such as Unilever’s cover many but not all 
+products and markets. In addition, international standards and 
+protocols relating to Scope 1, 2, and 3 emissions calculations 
+and categorisations also continue to evolve, as do accepted 
+norms regarding terminology such as carbon neutral and net 
+zero which may affect the emissions data Unilever reports. 
+As Scope 3 emissions data improves, shifting over time from 
+generic modelled data to more specific data, the data reported 
+in this document is likely to evolve.
+The models, methodologies, data, and standards used to 
+develop this document and the information and data contained 
+herein are not of the same standard as those available in 
+the context of other financial information, nor subject to the 
+same or equivalent disclosure standards, historical reference 
+points, benchmarks or globally accepted accounting principles 
+and are subject to rapid change and development for the 
+reasons stated above. Any opinions and estimates given in 
+this document should therefore be regarded as indicative, 
+preliminary and/or illustrative given these issues. Actual 
+outcomes may differ from those set out herein.
+Unless otherwise stated, the information and data in this 
+document has not been audited or assured. Some of the 
+information and data in this document may have been obtained 
+from public or other third-party sources and has not been 
+independently verified. Unilever makes no representation or 
+warranty regarding its completeness, accuracy, fitness for a 
+particular purpose or non-infringement of such information.
+Any opinions or views of third parties contained in this document 
+are those of the third parties identified, and not Unilever, its 
+affiliates, directors, officers, employees, or agents. Neither 
+Unilever nor any of its affiliates, directors, officers, employees, 
+or agents make any representation or warranty as to its quality, 
+accuracy, or completeness, and they accept no responsibility or 
+liability for the contents of this material, including any errors of 
+fact, omission or opinion expressed.
+Unilever, its affiliates, directors, officers, employees, or 
+agents expressly disclaim any liability and responsibility for 
+any decisions or actions which you may take and for any 
+damage or losses you may suffer from your use of or reliance on 
+this material. 
+This document does not contain or comprise profit forecasts, 
+investment, accounting, legal, regulatory or tax advice nor is 
+it an invitation for you to enter into any transaction. You are 
+advised to exercise your own independent judgement (with the 
+advice of your professional advisers as necessary) with respect to 
+the risks and consequences of any matter contained herein. 
+Appendices
+51
+
+--- Page 52 ---
+Unilever Climate Transition Action Plan
+Cautionary Note Regarding Forward-Looking Statements
+This document contains forward-looking statements, including 
+‘forward-looking statements' within the meaning of the 
+United States Private Securities Litigation Reform Act of 1995. 
+Words such as 'will', 'aim', 'expects', ‘expectations', ‘progress', 
+‘estimate', 'anticipates', 'intends', ‘intention', 'looks', 'believes', 
+'vision', 'ambition', 'target', 'seek', 'goal', 'plan', 'potential', 
+'try', 'work towards', ‘future', ‘become', ‘introduce', ‘transform', 
+‘outcome', ‘project', ‘projections', ‘deliver', ‘evolve', ‘come 
+about', ‘develop', ‘forwards', ‘pioneer', ‘going to', ‘prospective', 
+‘long-term', ‘objective', ‘achievement', or the negative of these 
+terms and other similar expressions of future actions or results, 
+and their negatives, are intended to identify such forward-
+looking statements. Forward-looking statements include, but 
+are not limited to, statements and information regarding the 
+Unilever Group's (the 'Group') targets and strategy to reduce in 
+absolute terms its operational (Scope 1 & 2) emissions by 70% 
+by 2025 and by 100% by 2030 against a 2015 baseline and to 
+achieve net zero emissions covering Scope 1, 2 and 3 emissions 
+by 2039, as well as its targets and strategy to reduce in-scope 
+absolute Scope 3 (energy & industrial emissions) by 42% and 
+Scope 3 (forest, land, and agriculture (FLAG) emissions) by 
+30.3% by 2030 from a 2021 baseline as set out in more detail in 
+the Targets section of this document (the 'Climate Transition 
+Action Plan').
+Forward-looking statements also include, but are not 
+limited, to actions to reduce emissions in the Group's own 
+operations and across its value chain, including reducing 
+emissions at the Group's factories, offices and labs as well 
+as within its supply chain (e.g. raw materials, packaging 
+materials, logistics and distribution), retail outlets and 
+waste processing; the redesign of products to reduce 
+emissions through innovation; business travel, commuting 
+and homeworking; capital investment related to the 
+Climate Transition Action Plan; the Group's €1bn Climate & 
+Nature Fund and its investments; and future advocacy and 
+partnerships in wider society.
+These forward-looking statements are based upon current 
+expectations and assumptions regarding anticipated 
+developments and other factors affecting the Group. 
+Forward-looking statements are based on the current 
+expectations and assumptions of management. They 
+are not historical facts, nor are they guarantees of future 
+performance or outcomes. Because these forward-
+looking statements involve known and unknown risks and 
+uncertainties, there are important factors that could cause 
+actual results to differ materially from those expressed or 
+implied by these forward-looking statements. Among other 
+risks and uncertainties, the material or principal factors 
+which could cause actual results to differ materially include, 
+but are not limited to, those set out under the heading 
+'Dependencies' under each emissions reduction lever set 
+out in this document. No assurance can be given that the 
+forward-looking statements in this document will be realised. 
+These forward-looking statements speak only as of the date 
+of this document. Except as required by any applicable law 
+or regulation, the Group expressly disclaims any obligation 
+or undertaking to release publicly any updates or revisions to 
+any forward-looking statements contained herein to reflect 
+any change in the Group's expectations with regard thereto 
+or any change in events, conditions, or circumstances on 
+which any such statement is based.
+This document does not form part of the Unilever Annual 
+Report and Accounts 2023. The contents of websites, 
+including Unilever's website, do not form part of 
+this document.
+Appendices
+52
+
+--- Page 53 ---
+Head Office 
+Unilever PLC
+100 Victoria Embankment
+London
+EC4Y 0DY
+United Kingdom
+
+T +44 (0)20 7822 5252
+Registered Office
+Unilever PLC
+Port Sunlight
+Wirral
+Merseyside
+CH62 4ZD
+United Kingdom
+ 
+Company Number: 41424
+Registered in England and Wales
+unilever.com/CTAP
